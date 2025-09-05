@@ -1,6 +1,9 @@
 {
     "full": {
-		"whoreson": "skurwysyn",
+		"whoreson": [
+			"skurwysyn",
+			"sukinsyn"
+		],
 		"motherfucker": "matkojebca",
 		"cur": "kundlu",
 		"mutt": [
@@ -9,7 +12,6 @@
 		],
 		"knave": "kanalia",
 		"idiot": "idiota",
-		"bare-skin": "gola-skora",
 		"cat": "kotka",
 		"lupian": "lupianowy",
 		"vulpkian": "lisowaty",
@@ -45,7 +47,10 @@
 		"lamptern": "lamtarnia",
 		"yes": "tak",
 		"hey": "hej",
-		"hello": "czesc",
+		"hello": [
+			"czesc",
+			"witam"
+		],
 		"hi": "czesc",
 		"goodbye": "do widzenia",
 		"night": "noc",
@@ -103,10 +108,13 @@
 		"vanguard": "awangarda",
 		"warden": "wartownik",
 		"saiga": "sajga",
+		"cow": "krowa",
+		"goat": "koza",
 		"dame": "dama",
 		"arquebus": "arkabuz",
 		"terrorbog": "bagno grozy",
-		"zizo": "ziza"
+		"zizo": "ziza",
+		"pintle": "pindol"
 	},
 	"start": {
 		"fuck!": "kurwa!",
@@ -147,7 +155,8 @@
 		"curses!": "kurvafix!",
 		"fucking cunt!": "kurwa cipka!",
 		"fuckingk cunt!": "kurwa cipka!",
-		"cunt!": "kunda!"
+		"cunt!": "kunda!",
+		"bitch!": "suka!"
 	},
 	"end": {
 		"ng": [
@@ -189,7 +198,8 @@
 		"good night": "dobranoc",
 		"the night": "noc",
 		"noc's bulb": "bulwa nocny",
-		"nocs bulb": "bulwa nocny"
+		"nocs bulb": "bulwa nocny",
+        "bare skin": "gola skora"
 
 	}
 }
